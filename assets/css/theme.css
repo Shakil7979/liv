@@ -1,65 +1,4 @@
-/* --------------------------------------------------------------------
-* Template Master Stylesheet
-* 
-* Template:		FreeBird - Photography Portfolio HTML Website Template
-* Author:		Themetorium
-* URL:			http://themetorium.net
-*
-* Template main color: #ea4e4e;
-* Global font family: 'Inconsolata', monospace;
-* Alter font family 1: 'Galada', cursive; (handled by "helper.css" file)
-* Alter font family 2: 'Bilbo Swash Caps', cursive; (handled by "helper.css" file)
------------------------------------------------------------------------ */
-
-
-/* Table of Content
-====================
-1. General
-2. Page preloader
-3. Body content
-4. Sections
-5. Headings
-6. Header
-7. Menu
-8. Copyright
-9. Mobile header
-10. Intro
-11. Isotope
-12. Gallery list section
-13. Gallery list slider
-14. Gallery single section
-15. Gallery single slider
-16. Gallery single section with sidebar
-17. Gallery single meta
-18. Add to favorites button
-19. Lightgallery
-20. Content carousel
-21. Horizontal scroll gallery
-22. Blog list section
-23. Blog single
-24. Blog sidebar
-25. Blog sidebar widgets
-26. About me section
-27. Contact section
-28. Page section
-29. Page header
-30. Split box
-31. Pagination
-32. Thumbnail list
-33. Nicescroll plugin
-34. YTP Player
-35. Blockquote
-36. Forms
-37. Modal
-38. Buttons
-39. Social buttons
-40. Follow me buttons
-41. Scroll to top button
-42. Typography variations
-43. Template demos
-*/
-
-
+ 
 
 /* ------------------------------------------------------------- *
  *  General
@@ -7221,4 +7160,10 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 	.demo-call-to-action {
 		font-size: 28px;
 	}
+}
+
+
+
+.sk_split_box{
+	padding: 91px;
 }

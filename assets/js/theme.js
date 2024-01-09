@@ -1,33 +1,4 @@
-/* --------------------------------------------------------------------
-* Template js
-* 
-* Template:		FreeBird - Photography Portfolio HTML Website Template
-* Author:		Themetorium
-* URL:			http://themetorium.net
-*
--------------------------------------------------------------------- */
 
-
-// Table of Contents
-// ==================
-
-// 1. Page transitions / preloader
-// 2. Disable right click
-// 3. Smooth scrolling
-// 4. Menu
-// 5. Defer videos
-// 6. Isotope
-// 7. OWL Carousel
-// 8. Nicescroll
-// 9. lightGallery
-// 10. YTPlayer (Background Youtube video)
-// 11. Add to favorite button
-// 12. Universal PHP Mail Feedback Script
-// 13. Fade out element with page scroll
-// 14. Element parallax effect
-// 15. Gallery single top info toggle
-// 16. Scroll to top button
-// 17. Miscellaneous
 
 
    
