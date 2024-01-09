@@ -7167,3 +7167,25 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 .sk_split_box{
 	padding: 91px;
 }
+
+.salon_title {
+	padding: 40px 0;
+	background: #fff;
+	margin: 20px;
+	border-radius: 5px;
+	/* padding-left: 170px; */
+	text-align: center;
+}
+
+.salon_title h4 {
+	color: #333;
+	font-family: Galada;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 39.6px;
+}
+
+.gallery_sk{
+	margin-bottom: 25px;
+}
