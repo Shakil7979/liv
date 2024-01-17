@@ -7189,3 +7189,14 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 .gallery_sk{
 	margin-bottom: 25px;
 }
+
+@media all and (max-width: 767px){
+	.salon_title {
+		padding: 6px 0; 
+		margin: 6px; 
+	}
+	.salon_title h4 {
+		font-size: 20px;
+		margin: 0;
+	}
+}
