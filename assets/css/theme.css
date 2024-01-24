@@ -1,5 +1,5 @@
  
-
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
 /* ------------------------------------------------------------- *
  *  General
 /* ------------------------------------------------------------- */
@@ -13,7 +13,7 @@ html, body {
 body {
 	position: relative;
 	background-color: #F1F1F1;
-	font-family: 'Inconsolata', monospace;
+	font-family: 'Gilda Display', serif; 
 	line-height: 1.6;
 	font-size: 17px;
 	color: #333;
@@ -7199,4 +7199,8 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 		font-size: 20px;
 		margin: 0;
 	}
+}
+
+body { 
+	font-family: 'Gilda Display', serif !important;  
 }
