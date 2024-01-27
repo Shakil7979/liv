@@ -1616,7 +1616,7 @@ ul.isotope-filter-links > li > a.active {
 .gallery-list-item { 
 	position: relative;
 	display: block;
-	background-color: rgba(138, 138, 138, 0.11);
+	/* background-color: rgba(138, 138, 138, 0.11); */
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
