@@ -7178,11 +7178,10 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 }
 
 .salon_title h4 {
-	color: #333;
-	font-family: Galada;
+	color: #333; 
 	font-size: 36px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: 39.6px;
 }
 

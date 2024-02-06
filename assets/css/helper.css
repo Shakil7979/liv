@@ -149,8 +149,8 @@
 
 /* font alternate 1 */
 .font-alter-1 { 
-	font-family: 'Galada', cursive;
-	font-weight: normal !important;
+	/* font-family: 'Galada', cursive; */
+	font-weight: bold !important;
 	text-transform: none !important;
 	letter-spacing: 0 !important;
 }
