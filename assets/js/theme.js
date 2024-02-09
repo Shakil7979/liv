@@ -170,13 +170,20 @@
 	});
 
 	// Filter
-	$('.isotope-filter-links a').on("click",function(){
-		var selector = $(this).attr('data-filter');
-		$container.isotope({
-			filter: selector
-		});
-		return false;
-	});
+	// $('.isotope-filter-links a').on("click",function(){
+	// 	var selector = $(this).attr('data-filter');
+	// 	$container.isotope({
+	// 		filter: selector
+	// 	});
+	// 	return false;
+	// });
+
+	$("html,body").animate(
+		{
+		  scrollTop: 0,
+		},
+		1000
+	  );
 
 	// Filter item active
 	var filterItemActive = $('.isotope-filter-links a');

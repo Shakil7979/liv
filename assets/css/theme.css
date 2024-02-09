@@ -1907,7 +1907,8 @@ ul.isotope-filter-links > li > a.active {
 	right: 0;
 	width: auto;
 	height: auto;
-	background-color: rgba(234, 78, 78, 0.96);
+	background-color: #13262F;
+	/* background-color: rgba(234, 78, 78, 0.96); */
 	opacity: 0;
 	padding: 0;
 	-webkit-box-shadow: none;
@@ -7202,4 +7203,8 @@ ul.menu-list.nav li a:focus, .nav li a:hover {
 
 body { 
 	font-family: 'Gilda Display', serif !important;  
+}
+
+.logo-small img {
+	max-width: 42px; 
 }
